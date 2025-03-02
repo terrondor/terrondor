@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dk.ionov@yandex.ru) 
-## Ссылка на простейших проект калькулятор.
+## Calculator
 [Посмотреть проект](https://calculator-on-as75hhi17-terrondors-projects.vercel.app/)
 
 # 💻 Tech Stack:
