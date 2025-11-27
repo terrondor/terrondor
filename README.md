@@ -19,7 +19,7 @@
 ## 🛠️ Технологический стек
 
 ### 🔷 Ядро: Геодезия + C#
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-F8981D?style=flat-square&logo=autodesk&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-F8981D?style=flat-square&logo=autodesk&logoColor=white) 
 ![WPF](https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white) 
 
 ### 🌐 Расширение: Веб & Скрипты
