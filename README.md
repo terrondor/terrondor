@@ -19,36 +19,24 @@
 ## 🛠️ Технологический стек
 
 ### 🔷 Ядро: Геодезия + C#
-| Технология       | Описание                          |
-|------------------|-----------------------------------|
-| ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) | Основной язык для автоматизации AutoCAD/Civil 3D |
-| ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) | Современная платформа для десктопных приложений |
-| ![AutoCAD](https://img.shields.io/badge/AutoCAD-F8981D?style=flat-square&logo=autodesk&logoColor=white) | Работа с чертежами, точками, поверхностями через API |
-| ![WPF](https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white) | UI для ваших инструментов — чистый, быстрый, Windows-native |
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-F8981D?style=flat-square&logo=autodesk&logoColor=white) 
+![WPF](https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white) 
 
 ### 🌐 Расширение: Веб & Скрипты
-| Технология       | Описание                          |
-|------------------|-----------------------------------|
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white) | Для скриптов обработки данных, парсинга GSI/CSV |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) | Понимание фронтенда — полезно для веб-интерфейсов к инструментам |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | База для создания простых UI или отчётов |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | Стили для интерфейсов — даже если вы их не пишете, вы понимаете |
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
+
 
 ### 📦 Инструменты & Данные
-| Технология       | Описание                          |
-|------------------|-----------------------------------|
-| ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white) | Формат для хранения и передачи координатных данных |
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) | Контроль версий — основа профессиональной разработки |
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 
 ### 🎮 Эксперименты: Игры & Творчество
-| Технология       | Описание                          |
-|------------------|-----------------------------------|
-| ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) | Мини-игры — тренировка архитектуры, физики, UX/UI |
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats (для тех, кто любит цифры)
-
+## 📊 GitHub Stats 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=terrondor&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
